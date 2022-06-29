@@ -7,9 +7,9 @@
 ---
 
 - [Shadow Gradle Plugin](https://plugins.gradle.org/plugin/com.github.johnrengelman.shadow)
-## Feature jdbc-hikari documentation
+## Feature micronaut-mongo-sync documentation
 
-- [Micronaut Hikari JDBC Connection Pool documentation](https://micronaut-projects.github.io/micronaut-sql/latest/guide/index.html#jdbc)
+- [Micronaut MongoDB Synchronous documentation](https://guides.micronaut.io/latest/micronaut-mongodb-synchronous-gradle-kotlin.html)
 
 
 ## Feature http-client documentation
